@@ -17,6 +17,7 @@ node_modules/
 *.log
 
 # Ignore macOS system files
+SLEUTH/.DS_Store/
 .DS_Store
 
 # Ignore IDE-specific files
