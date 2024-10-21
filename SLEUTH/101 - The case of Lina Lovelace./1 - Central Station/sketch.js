@@ -31,7 +31,7 @@ var img;
 
 function preload()
 {
-	img = loadImage('img.jpg');
+	img = loadImage('img.png');
 }
 
 function setup()
@@ -47,7 +47,7 @@ function draw()
 	image(img,0,0);
 
 	//Write your code below here ...
-	rect(98,198, 599, 99)
+	rect(822,144, 98, 198)
 	//A helpful mouse pointer
 	push();
 		fill(0);
