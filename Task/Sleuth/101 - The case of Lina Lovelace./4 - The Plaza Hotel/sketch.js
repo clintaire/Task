@@ -79,7 +79,7 @@ function draw()
 	stroke(255,127,80);
 	// Dark Magenta filled rect
 	fill(139,0,139);
-	// Woman with the dog by drawing
+	// Woman with the dog by drawing.
 	rect(18,280,204,438);
 
 
