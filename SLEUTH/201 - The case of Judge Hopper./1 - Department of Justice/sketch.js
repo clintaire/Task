@@ -44,6 +44,15 @@ function draw()
 
     // write the code to draw around the evidence below
 
+    // Letter opener,
+    ellipse(568,249,66,136);
+    // Death threat letters,
+    ellipse(421,295,130,127);
+    // telephone,
+    ellipse(715,242,179,168);
+    // and the AGOL leaflet
+    ellipse(266,362,105,127);
+
 
 
 
