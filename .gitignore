@@ -1,55 +1,17 @@
-# Default ignored files
-/shelf/
-/workspace.xml
-
-# Editor-based HTTP Client requests
-/httpRequests/
-
-# Datasource local storage ignored files
-/dataSources/
-/dataSources.local.xml
-
-# Ignore node_modules
-node_modules/
-
-# Ignore Subfolder files
-SLEUTH/.DS_Store
-SLEUTH/node_modules/
-SLEUTH/.gitkeep
-SLEUTH/package-lock.json
-SLEUTH/package-lock.json
-
-
-# Ignore logs
-*.log
-
 # Ignore macOS system files
 .DS_Store
 .AppleDouble
 .LSOverride
 
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
-
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-.com.apple.timemachine.donotpresent
-
-# iCloud generated files
-*.icloud
-
 # Ignore IDE-specific files
 .idea/
 .vscode/
+
+# Ignore node_modules
+node_modules/
+
+# Ignore logs
+*.log
 
 # Ignore package lock and build files
 package-lock.json
