@@ -48,7 +48,7 @@ function draw()
     // Gathering yourself together, you tie a handkerchief around your
     // nose and mouth and quickly set about recording the evidence.
     // HINT: You should only need around 20 vertices to draw round the judge.
-    // Make sure you close your shape!
+    // Make sure you close your shape!!
 
     beginShape()
     vertex(194,192);
