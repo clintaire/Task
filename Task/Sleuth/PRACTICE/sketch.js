@@ -10,4 +10,12 @@ function draw()
     fill(200,0,0);
     triangle(100,100,100,50,200,100)
     strokeWeight(2);
+
+
+       //A helpful mouse pointer
+	push();
+        fill(0);
+        noStroke();
+        text(mouseX + "," + mouseY, mouseX,mouseY);
+    pop();
 }
