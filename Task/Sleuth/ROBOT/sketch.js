@@ -129,4 +129,11 @@ function draw()
 	vertex(766, 185);
 	vertex(774, 175);
 	endShape();
+
+	   //A helpful mouse pointer
+	push();
+        fill(0);
+        noStroke();
+        text(mouseX + "," + mouseY, mouseX,mouseY);
+    pop();
 }
