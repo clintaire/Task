@@ -16,4 +16,12 @@ function draw()
 	//draw the red rectangle 
 	rect(100, 50, 600, 600);
 
+
+	   //A helpful mouse pointer
+	push();
+        fill(0);
+        noStroke();
+        text(mouseX + "," + mouseY, mouseX,mouseY);
+    pop();
+
 }
